@@ -12,7 +12,7 @@ function App() {
       </div>
       <div className="subHeading">
         <br />
-        <h2>Whoop, it's Sunday 🌝 ☕ </h2>
+        <h2>Whoop, it's Friday 🌝 ☕ </h2>
       </div>
       <div className="input">
         <input
